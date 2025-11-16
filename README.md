@@ -1,2 +1,2 @@
 # fake-news-detecter
-I-powered Fake News Detection using DistilBERT
+AI-powered Fake News Detection using DistilBERT
